@@ -1,6 +1,6 @@
-# Lecture-5
+# Lecture 5: Creating Virtual Environments
 
-Detailed explanation of this code can be found in the lecture video (will be added after class).
+Detailed explanation of this code can be found in the [lecture video](https://mediaspace.umn.edu/media/t/1_3nb1z83v).
 
 ## Topics
 
