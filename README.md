@@ -1,13 +1,16 @@
 # Lecture-5
 
-# Lecture 3: VR Development in Unity
-
 Detailed explanation of this code can be found in the lecture video (will be added after class).
 
 ## Topics
 
 1. How to Setup Unity on Lab Machines
-2. 
+2. Importing [assets](https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479) from the Unity Asset Store 
+3. Installing the [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@1.0/manual/index.html)
+4. Adding an XR camera rig to an existing scene
+5. Adding the [Quest controller models](https://developer.oculus.com/downloads/package/oculus-controller-art/)
+6. Testing scene performance
+7. Adding basic virtual [locomotion](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@1.0/manual/locomotion.html)
 
 ## Participation Exercise
 
