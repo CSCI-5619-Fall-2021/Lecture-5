@@ -4,7 +4,7 @@ Detailed explanation of this code can be found in the lecture video (will be add
 
 ## Topics
 
-1. How to Setup Unity on Lab Machines
+1. How to setup Unity on lab machines
 2. Importing [assets](https://assetstore.unity.com/packages/3d/environments/landscapes/lowpoly-environment-pack-99479) from the Unity Asset Store 
 3. Installing the [XR Interaction Toolkit](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@1.0/manual/index.html)
 4. Adding an XR camera rig to an existing scene
